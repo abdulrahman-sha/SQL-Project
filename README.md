@@ -84,7 +84,7 @@ order by year,Region, number_of_sold_cars  desc
 ## Folder Structure
 
 - <a href="https://github.com/abdulrahman-sha/SQL-Projects/blob/main/bmw%20sales.sql">bmw sales</a>
--  Main SQL script containing all queries.
+   SQL script containing all queries.
 
 ## Contributing
 
