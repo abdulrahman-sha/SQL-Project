@@ -39,10 +39,15 @@ FROM [BMW SALES]
 ```
 
 ### 2. Round Engine Size Values
-select round(engine_size_l,1)
-from  [BMW SALES]
-update [BMW SALES]
-set engine_size_l =  round(engine_size_l,1)
+View (rounded):
+```sql
+SELECT ROUND(engine_size_l, 1)
+FROM [BMW SALES]
+```
+Update:
+```sql
+UPDATE [BMW SALES]
+SET engine_size_l = ROUND(engine_size_l, 1)
 
 ```
 
