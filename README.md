@@ -86,7 +86,7 @@ order by year,Region, number_of_sold_cars  desc
 
 - <a href="https://github.com/abdulrahman-sha/SQL-Projects/blob/main/bmw%20sales.sql">bmw sales</a>
    SQL script containing all queries.
-  - <a href="https://github.com/abdulrahman-sha/SQL-Projects/blob/main/BMW%20sales%20data%20(2010-2024).csv">bmw sales</a>
+  - <a href="https://github.com/abdulrahman-sha/SQL-Projects/blob/main/BMW%20sales%20data%20(2010-2024).csv">bmw sales</a> tableau file
 
 ## Contributing
 
