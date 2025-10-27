@@ -17,6 +17,7 @@ This project analyzes BMW car sales data using SQL Server. The project provides 
 - **Database:** SQL Server
 - **Table:** - <a href="https://github.com/abdulrahman-sha/SQL-Projects/blob/main/BMW%20sales%20data%20(2010-2024).csv">BMW sales data (2010-2024)</a>
 - SQL Server Management Studio (SSMS) or compatible SQL client.
+- <a href=<a href="https://github.com/abdulrahman-sha/SQL-Projects/blob/main/BMW%20sales%20data%20(2010-2024).csv">BMW sales data (2010-2024)</a>>BMW sales data (2010-2024)</a>
 
 ## Setup
 
